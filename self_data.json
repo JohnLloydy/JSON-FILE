@@ -4,8 +4,7 @@
 			"Name": "John Lloyd Sagrado",
 			"age": 21,
 			"quotes": "Take advantage in every opportunity"
-		}],
-	"student": [
+		},
 		{
 			"classSection": "BSIT-3A",
 			"sectionCode": "T221",
