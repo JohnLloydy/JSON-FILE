@@ -1,0 +1,13 @@
+{
+	"introduction": [{
+			"fullName": "John Lloyd Sagrado",
+			"age": 21,
+			"favoriteQuotes": "Take advantage in every opportunity"
+		},
+		{
+			"classSection": "BSIT-3A",
+			"sectionCode": "T221",
+			"buksuEmail": "2001104143@student.buksu.edu.ph"
+		}
+	]
+}
