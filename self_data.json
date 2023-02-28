@@ -1,10 +1,11 @@
 {
 	"introduction": [
 		{
-			"fullName": "John Lloyd Sagrado",
+			"Name": "John Lloyd Sagrado",
 			"age": 21,
-			"favoriteQuotes": "Take advantage in every opportunity"
-		},
+			"quotes": "Take advantage in every opportunity"
+		}],
+	"student": [
 		{
 			"classSection": "BSIT-3A",
 			"sectionCode": "T221",
